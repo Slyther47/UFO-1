@@ -1,5 +1,5 @@
-public class Main {
-    public static void main(String[] args) {
-        Ufospiel Ufospiel = new Ufospiel();
+class Main{
+    public static void main(String[] args){
+        Ufoszene Game = new Ufoszene();
     }
 }
